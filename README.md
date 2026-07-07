@@ -2,7 +2,7 @@
 
 
 # About me
-<p>I’m a passionate and motivated Junior Data Analyst currently studying at Richfield College, where I’m developing strong analytical, statistical, and technical skills. I enjoy working with data to uncover insights that drive smarter decisions. My growing expertise includes data visualization, Excel, SQL, and Python, and I’m eager to keep learning and applying my skills in real-world projects. I’m motivated by curiosity and a desire to turn raw data into meaningful stories that create impact.</p>
+<p>I’m a passionate and motivated Data Analyst currently studying at Richfield College, where I’m developing strong analytical, statistical, and technical skills around data. I enjoy working with data to uncover insights that drive smarter decisions. My growing expertise includes data visualization, Excel, SQL, and Python, and I’m eager to keep learning and applying my skills in real-world projects. I’m motivated by curiosity and a desire to turn raw data into meaningful stories that create impact.</p>
 
 ## Skills
  - Laguages : SQL, Python
