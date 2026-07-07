@@ -2,7 +2,7 @@
 
 
 # About me
-<p>I’m a passionate and motivated Data Analyst currently studying at Richfield College, where I’m developing strong analytical, statistical, and technical skills around data. I enjoy working with data to uncover insights that drive smarter decisions. My growing expertise includes data visualization, Excel, SQL, and Python, and I’m eager to keep learning and applying my skills in real-world projects. I’m motivated by curiosity and a desire to turn raw data into meaningful stories that create impact.</p>
+<p>Masego is a final-year Bachelor of Science in Information Technology student at Richfield College, with a passion for turning raw data into meaningful insights that support business growth and informed decision-making. Her studies have given her hands-on skills in Excel, SQL, Python, and Power BI, alongside a strong foundation in information systems, big data, and statistics. She is eager to apply these skills to real-world projects, gain valuable industry experience, and contribute to innovative technology solutions as she works toward becoming a data analyst.</p>
 
 ## Skills
  - Laguages : SQL, Python
